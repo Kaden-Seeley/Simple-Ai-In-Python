@@ -3,3 +3,5 @@ A simple ai that I made in python whilst learning from the Harvard CS50 'Introdu
 
 # MADE USING OPENAI LIBRARY
 This won't work if you don't have an OpenAI api key.
+
+May or may not get updated.
